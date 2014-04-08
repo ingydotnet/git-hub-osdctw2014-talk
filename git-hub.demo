@@ -1,5 +1,7 @@
 # Hello. My name is Ingy dot Net.
 # Today I want to show you a new command called `git hub`.
+# But first a little music:
+♬ Wonderwall 44.4 3.7
 git hub -h
 git hub user
 git hub config | perl -pe 's/\S{40}/********/'
