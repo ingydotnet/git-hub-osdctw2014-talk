@@ -1,11 +1,76 @@
-# Hello. My name is Ingy dot Net.
-# Today I want to show you a new command called `git hub`.
-# But first a little music:
-♬ Wonderwall 44.4 3.7
-git hub -h
+♬ ouiwill 0 12.1
+# Hello! My name is Ingy dot Net.
+# Is this font too small for you?
+ⓕ -big ' ' 'Hello!' 'My name is' 'Ingy döt Net'
+Ⓕ -big ' ' 'Ooöopsie!'
+Ⓕ -big ' ' 'Hello!' 'My name is' 'Ingy döt Net'
+Ⓕ -big ' ' '\o/'
+# I started a company called "Oui Street" with my friend Andrew Cole.
+Ⓕ -big ' ' 'OUI WILL ROCK YOU!!!'
+♬ ouiwill 71.7 17.2
+# Today I want to show you a new shell command.
+# If you ♥ your terminal, it will change your life.
+# But first a little cuteness! *** MJD Recommended! ***
+■ cute
+♥ intro
+🔥 https://github.com/ingydotnet?tab=repositories https://github.com/orgs/g0v/teams/dev
+Ⓕ  ' ' 'http://github.com' '==' ':-('
+# NOW WATCH THIS!!!
+echo repo{1,2,3,4,5} | git hub repo-new = -vd
+git hub members g0v -r | git hub trust -
+Ⓕ  ' ' 'Holy Shit!!!'
+♥ welcome
+git hub user ingydotnet
 git hub user
 git hub config | perl -pe 's/\S{40}/********/'
-git hub user aocole
+git hub -h
+git hub help
+cd src/g0v.tw
+git hub user
+git hub repos
+git hub user ingydotnet
 git hub repos aocole
-git hub repos aocole --raw --count=5
-# THE END
+git hub repos @
+git hub repo @/live-demo
+git hub repo
+git hub star
+git hub user @
+git hub repos
+git hub open
+git hub url
+git hub url README.md
+vim README.md
+firefox -no-remote
+# git-hub has many interesting flags:
+git hub -h
+cd
+git hub user -v
+git hub user -v -d
+git hub user -H
+git hub user -O
+git hub user -J
+git hub user -vHOJ
+git hub user -x
+# Chaining commands is simple scripting for Poer Users!
+git hub repos aocole
+git hub repos audreyt --raw --count 5
+git hub repos clkao -r -c5 | git hub star -
+git hub repos clkao -r -c5 | git hub unstar -
+♈ pull
+cd ~/src/g0v.tw
+vim README.md
+git hub fork --remote=@
+git hub push ingydotnet master
+git hub pull-request g0v/g0v.tw
+git hub pull-list g0v/g0v.tw
+git hub pull-diff g0v/g0v.tw #
+# git hub pull-merge g0v/g0v.tw #
+♈ bash
+cd ~/src/git-hub
+vim lib/git-hub
+make test
+prove -v test/
+ls ext/
+Ⓕ ' ' 'Who Loves git-hub now?'
+♬ ouiwill+ 12.1 180
+Ⓕ -big ' ' 'The End' 'Any Questions?'

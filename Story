@@ -1,0 +1,21 @@
+Walk up to the stage.
+"I want to give you a LiveDemo."
+> live-demo LiveDemo -t 30
+"Join in if you know it."
+Play intro music. Pound fists/clap.
+
+Start typing first line…
+
+== Things to cover
+
+* GitHub v3 API
+* git-foo commands. any language.
+* Show all g0v members
+* Installation
+
+== Commands
+* user
+* repos
+* clone
+* repo
+* url, open

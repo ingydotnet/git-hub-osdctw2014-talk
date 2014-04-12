@@ -1,0 +1,123 @@
+---- config
+title: git-hub
+indent: 5
+auto_size: 1
+vim_opts: '-u NONE'
+skip: 0
+
+----
+== Welcome to git-hub
+
+    https://github.com/ingydotnet/git-hub
+
+'git hub …' is a new git command.
+
+----
+== git-hub
+
+* Dozens of useful commands
+* All your GitHub from the terminal
+* GitHub V3 API
+* Easy to Install
+
+----
+== Simple Installation / Upgrade
+
+    git clone git@github.com:ingydotnet/git-hub
+    export PATH="$PWD/git-hub:$PATH"
+
+    git hub upgrade
+
+== Traditional Installation / Upgrade
+
+    git clone git@github.com:ingydotnet/git-hub
+    cd git-hub
+    sudo make install
+
+    man git-hub
+
+    cd git-hub
+    git pull
+    sudo make install
+
+----
+== User/Org Commands
+
+* git hub user
+* git hub org
+* git hub teams
+* git hub members
+* git hub follow
+* git hub follows
+* git hub followers
+* git hub following
+
+----
+== Repo Commands
+
+* git hub repo
+* git hub repo-new
+* git hub repo-delete
+* git hub repos
+* git hub clone
+* git hub fork
+* git hub forks
+* git hub star
+* git hub stars
+* git hub collabs
+* git hub trust
+
+----
+== Issues and Pull Requests
+
+* git hub pull-request
+* git hub issue-new
+* git hub pull-list
+* git hub issue-list
+* git hub issue
+* git hub issue-update
+* git hub pull-diff
+* git hub pull-merge
+* git hub issue-close
+
+----
+== Miscellaneous Commands
+
+* git hub setup
+* git hub upgrade
+* git hub repo-init
+* git hub open
+* git hub url
+* git hub keys
+
+----
+== Command Options
+
+* -r — Raw output (for scripting / power user)
+* -v — Verbose. See curl command
+* -O — API JSON Output
+* -J — API Parsed Output
+* -H — API Response Headers
+* -d — Dry run a command
+* -x — Full debugging trace output
+
+----
+== Features
+
+* Full manpage integrated help / doc
+* Context sensitive
+* 'user/repo' syntax
+  * git hub clone 'g0v/g0v.tw'
+  * @ → your-user-login
+* Third Party Plugin Commands
+  * carloslima/git-hub-travis
+* Command Chaining
+* Written all in Bash.
+  * No joke!
+  * Includes Bash JSON parser and Test Framework
+  * Works instantly / anywhere
+  * Bash is a cool new programming language!
+  * See my talk after lunch!
+
+----
+== Let's Try Some Commands!

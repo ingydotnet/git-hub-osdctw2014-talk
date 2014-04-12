@@ -1,0 +1,58 @@
+---- config
+title: git-hub
+indent: 5
+auto_size: 1
+vim_opts: '-u NONE'
+skip: 0
+
+----
+== Everybody Loves Git
+
++* Very Fast
++* Decentralized
++* Solid core model
++* Tons of useful commands
++* Git is the apparent winner of SCM
+
+----
+== Common Git Commands
+
+* git init
+* git clone
+* git add
+* git commit
+* git push
+* git pull
+* git rebase
+
++All from the terminal :)
+
+----
+== Everybody Loves GitHub
+
+* High quality Git repository hosting
+* Free for Open repos
+* Practically unlimited
+* Tons of features
+* Webhooks
+* Platform for new development tools
+* Almost no lockin
+* gh-pages++
+
++All from the web browser :(
+
+----
+== GitHub Web UI Sucks
+
++* Not really a bad Web UI/UX
+
++* Web is just not a good power tool
+* Fine for basic tasks
+* Simple things simple
+* Hard things impossible
+
++* Not scriptable
+* Try creating 100 new repos
+* Try adding all g0v members as collabs to 10 repos
+
++* Let's try it!
